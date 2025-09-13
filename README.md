@@ -1,6 +1,8 @@
 Find a substance
 ================
 
+![alt text](assets/splash.png "Title")
+
 FindASubstance is a lightweight mobile app designed to provide quick and reliable information about psychoactive substances.
 It connects to the TripSit API to deliver trusted harm-reduction data in a clean and intuitive interface.
 
