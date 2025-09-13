@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Find a substance",
+    "slug": "FindASubstance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "developmentClient": false,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#442663"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#442663"
+      },
+      "package": "com.kernelpanik.FindASubstance"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "770a35c5-23dc-472a-9618-27146eb8399e"
+      }
+    }
+  }
+}
